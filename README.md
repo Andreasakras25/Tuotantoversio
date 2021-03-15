@@ -1,5 +1,5 @@
 # Tuotantoversio
-Tuotantoversion vaiheet ja dokumentointi
+Näytön vaiheet:
 
 1. Näyttösuunnitelma
 2. Rautalankamalli
